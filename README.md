@@ -7,7 +7,7 @@ The shop is located just off the **interstate**. There is also a **Popeyes** rig
 
 ---
 
-### Making an Ordered List
+### Directions to the nearest airport from California Taco Shop
 1. Get on I-470 N/MO-291 N in Blue Township from Corporal M. E. Webster Memorial Pkwy/E US Hwy 40
 2. Head south for 85 feet
 3. Turn right toward Fairview Rd in 443 feet
