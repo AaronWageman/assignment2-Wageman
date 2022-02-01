@@ -34,3 +34,16 @@ Foods I would recommend from California Taco Shop:
 ### Link to my AboutMe.md
 
 Click the link to go to my **[AboutMe](AboutMe.md)**
+
+---
+
+### Table of Activities
+
+The following table is contains some sports/activities I recommend. It also contains a location where you can participate and the cost of personal equipment. 
+
+|Activity|Location|Cost($)|
+|---|---|---|---|
+|Swimming|Mozingo Lake|20.00|
+|Basketball|Student Rec Center|0.00|
+|Hiking|Mozingo Lake|100.00|
+|Fishing|Mozingo Lake|100.00|
