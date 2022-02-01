@@ -47,3 +47,14 @@ The following table is contains some sports/activities I recommend. It also cont
 |Basketball|Student Rec Center|0.00|
 |Hiking|Mozingo Lake|100.00|
 |Fishing|Mozingo Lake|100.00|
+
+---
+
+### Favorite Quotes
+
+>You must expect great things of yourself before you can do them
+*-Michael Jordan*
+
+>If you're going through hell, keep going.
+*-Winston Churchill*
+
